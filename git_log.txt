@@ -1,0 +1,51 @@
+commit d7e7b10e1b798886c4d8684678bb5be8baed7355
+Merge: 462c0e3 53fe816
+Author: Jianhao Huang <haoh91222@gmail.com>
+Date:   Thu Sep 10 18:27:01 2026 -0700
+
+    I fixed the conflict
+
+commit 53fe8162b58010964ec482a1cc6d5de54a4e5707
+Author: Jianhao Huang <haoh91222@gmail.com>
+Date:   Thu Sep 10 18:23:01 2026 -0700
+
+    add my favorite video game
+
+commit 17b9c251597b4eec18ff2063e8fe350a68ddcced
+Author: Jianhao Huang <haoh91222@gmail.com>
+Date:   Thu Sep 10 18:21:00 2026 -0700
+
+    add favorite food
+
+commit 462c0e35056827d52381f1e254f66566ccfb73f8
+Author: Jianhao Huang <haoh91222@gmail.com>
+Date:   Thu Sep 10 18:17:19 2026 -0700
+
+    Add favorite food
+
+commit 2ee081ac5db4fdcad0a40cebf1c884479473cfc4
+Author: Jianhao Huang <haoh91222@gmail.com>
+Date:   Thu Sep 10 10:16:29 2026 -0700
+
+    Add README
+
+commit 4bb052c7a32319e4648e46c40f41f78aff098090
+Merge: 1d2bfc0 30cde25
+Author: Dasd-dev <haoh91222@gmail.com>
+Date:   Fri Sep 4 11:10:30 2026 -0700
+
+    Merge pull request #1 from Dasd-dev/info-fill
+    
+    added index.html
+
+commit 30cde252c8bb20f830bc3c8c6929882c7aba127f
+Author: Jianhao Huang <haoh91222@gmail.com>
+Date:   Fri Sep 4 10:55:58 2026 -0700
+
+    added index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
